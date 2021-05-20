@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="statusBar">#00381c</color>
+    <color name="title">#00381c</color>
+    <color name="buttons">#1c1c1c</color>
+    <color name="background">#353535</color>
+
+    <color name="colorPrimary">#00381c</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorPrimaryVariant">#383060</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorSecondary">#3700B3</color>
+    <color name="colorSecondaryVariant">#383060</color>
+    <color name="colorOnSecondary">#03DAC5</color>
+    <!--
+    <color name="color_red">#FF0000</color>
+    <color name="color_green">#27FF00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="purple_200">#cd00cd</color>
+    <color name="purple_500">#9932CC</color>
+    <color name="purple_700">#4B0082</color>
+    <color name="teal_200">#008060</color>
+    <color name="teal_700">#006080</color>
+    -->
+</resources>

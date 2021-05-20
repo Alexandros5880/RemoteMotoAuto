@@ -1,0 +1,2 @@
+rootProject.name = "RemoteMotoAuto"
+include ':app'
